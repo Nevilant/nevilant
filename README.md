@@ -1,6 +1,6 @@
 ![Header](https://github.com/Nevilant/nevilant/blob/main/assets/logo.png)
 
-## I'm Junior Manual QA and Python Automation QA Engineer. It's my portfolio.
+## I'm Fullstack QA Engineer. It's my portfolio.
 
 ### Languages and Tools, which I use
 
